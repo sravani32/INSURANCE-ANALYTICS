@@ -61,10 +61,15 @@ This dashboard is a Weekly Branch Dashboard designed to track the performance an
 *Cross-Sell, New, and Renewal Targets:
 
 Invoice, Achieved, and Target values are displayed as bar graphs for each category.
+
 Metrics highlight:
+
 Cross-Sell: Achieved 13.11M out of a 20.08M target.
+
 New: Achieved 3.44M against a 19.67M target.
+
 Renewal: Achieved 18.72M, surpassing a 12.32M target.
+
 Achievement Percentages:
 
 Cross Sell Placed Achievement %: 65.26% (good progress).
