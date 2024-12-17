@@ -87,13 +87,13 @@ Renewal Invoice Achievement %: 68.14% (good progress).
 
     * Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
    
-** 2. Opportunities:
+ 2. Opportunities:
 
      * Total Opportunity: 49.
    
      * Total Open Opportunity: 44.
    
-** 3. Opportunity Product Distribution (Pie Chart): **
+* 3. Opportunity Product Distribution (Pie Chart): *
 
 Displays the contribution of various product groups to revenue:
 Fire: 31%.
