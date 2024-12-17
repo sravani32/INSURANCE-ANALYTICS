@@ -93,16 +93,18 @@ Renewal Invoice Achievement %: 68.14% (good progress).
    
      * Total Open Opportunity: 44.
    
-* 3. Opportunity Product Distribution (Pie Chart): *
+ 3. Opportunity Product Distribution (Pie Chart): 
 
-Displays the contribution of various product groups to revenue:
-Fire: 31%.
-EL-Group Mediclaim: 24%.
-DB-Mega Policy: 24%.
-CVP GMC: 21%.
-Open Opportunities by Revenue (Bar Graph):
+     * Displays the contribution of various product groups to revenue:
+           * Fire: 31%.
+       
+           * EL-Group Mediclaim: 24%.
+       
+           * DB-Mega Policy: 24%.
+           * CVP GMC: 21%.
+4. Open Opportunities by Revenue (Bar Graph):
 
-Top 4 product revenues:
+  * Top 4 product revenues:
 Fire: 500,000.
 EL-Group Mediclaim: 400,000.
 DB-Mega Policy: 400,000.
