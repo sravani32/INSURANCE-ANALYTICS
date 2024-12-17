@@ -64,25 +64,26 @@ This dashboard is a Weekly Branch Dashboard designed to track the performance an
 
 * Metrics highlight:
 
-       Cross-Sell: Achieved 13.11M out of a 20.08M target.
+      * Cross-Sell: Achieved 13.11M out of a 20.08M target.
 
-       New: Achieved 3.44M against a 19.67M target.
+      * New: Achieved 3.44M against a 19.67M target.
 
-       Renewal: Achieved 18.72M, surpassing a 12.32M target.
+      * Renewal: Achieved 18.72M, surpassing a 12.32M target.
 
 2. Achievement Percentages:
 
-         Cross Sell Placed Achievement %: 65.26% (good progress).
+        * Cross Sell Placed Achievement %: 65.26% (good progress).
 
-          Cross-Sell Invoice Achievement %: 15.14% (low progress).
+        * Cross-Sell Invoice Achievement %: 15.14% (low progress).
 
-          New Placed Achievement %: 17.48% (low progress).
+        * New Placed Achievement %: 17.48% (low progress).
 
-          Renewal Placed Achievement %: 152.00% (exceeded target).
+        * Renewal Placed Achievement %: 152.00% (exceeded target).
 
-          Renewal Invoice Achievement %: 68.14% (good progress).
+       * Renewal Invoice Achievement %: 68.14% (good progress).
 
 # Middle Section: Key Metrics
+
 1. Yearly Meeting Count:
 
         Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
