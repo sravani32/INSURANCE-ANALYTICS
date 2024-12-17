@@ -96,44 +96,61 @@ Renewal Invoice Achievement %: 68.14% (good progress).
  3. Opportunity Product Distribution (Pie Chart): 
 
      * Displays the contribution of various product groups to revenue:
+       
            * Fire: 31%.
-       
            * EL-Group Mediclaim: 24%.
-       
            * DB-Mega Policy: 24%.
            * CVP GMC: 21%.
+       
 4. Open Opportunities by Revenue (Bar Graph):
 
-  * Top 4 product revenues:
-Fire: 500,000.
-EL-Group Mediclaim: 400,000.
-DB-Mega Policy: 400,000.
-CVP GMC: 350,000.
-Bottom Section: Execution Metrics
-Meetings by Account Executives (Bar Graph):
+     Top 4 product revenues:
 
-Highlights the number of meetings conducted by each account executive:
-Abhinav Shivam: 7 meetings.
-Animesh Rawat: 4 meetings.
-Mark: 6 meetings, etc.
-Invoices by Account Executives:
+        * Fire: 500,000.    
+        * EL-Group Mediclaim: 400,000.
+        * DB-Mega Policy: 400,000.
+        * CVP GMC: 350,000.
+          
+# Bottom Section: Execution Metrics
 
-Cross-sell performance across executives:
-Juli: 20 invoices.
-Vinay: 19 invoices.
-Mark: 9 invoices, etc.
-Stage Funnel by Revenue:
+1. Meetings by Account Executives (Bar Graph):
 
-Displays opportunities by stages (e.g., Negotiate, Propose Solution, Qualify Opportunity).
-Grand Total: 49 opportunities, with 42 in the "Qualify Opportunity" stage.
-Right-Side Filters
-Product Group Filter: Users can filter data by specific product groups such as Employee Benefits, Engineering, Fire, etc., to customize the dashboard view.
-Insights
-Renewal performance is strong, exceeding targets.
-Cross-sell and new placements need improvement, with relatively low percentages achieved.
-Opportunity distribution shows a concentration in Fire and Mediclaim products.
-Some account executives have significantly higher activity levels than others, suggesting an imbalance.
-This dashboard provides a clear summary of sales performance, opportunity tracking, and employee activity, helping decision-makers focus on areas needing improvement.
+    Highlights the number of meetings conducted by each account executive:
+     
+        * Abhinav Shivam: 7 meetings.
+        * Animesh Rawat: 4 meetings.
+        * Mark: 6 meetings, etc.
+
+2. Invoices by Account Executives:
+
+    Cross-sell performance across executives:
+       
+         * Juli: 20 invoices.
+         
+         * Vinay: 19 invoices.
+         
+         * Mark: 9 invoices, etc.
+         
+ 3. Stage Funnel by Revenue:
+
+        *  Displays opportunities by stages (e.g., Negotiate, Propose Solution, Qualify Opportunity).
+
+        * Grand Total: 49 opportunities, with 42 in the "Qualify Opportunity" stage.
+       
+# Right-Side Filters
+
+    * Product Group Filter: Users can filter data by specific product groups such as Employee 
+      Benefits, Engineering, Fire, etc., to customize the dashboard view.
+      
+# Insights
+
+     * Renewal performance is strong, exceeding targets.
+     * Cross-sell and new placements need improvement, with relatively low percentages achieved.
+     * Opportunity distribution shows a concentration in Fire and Mediclaim products.
+     * Some account executives have significantly higher activity levels than others, suggesting 
+      an imbalance.
+
+* This dashboard provides a clear summary of sales performance, opportunity tracking, and employee activity, helping decision-makers focus on areas needing improvement.
 
 
 
