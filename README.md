@@ -85,15 +85,15 @@ Renewal Invoice Achievement %: 68.14% (good progress).
 # Middle Section: Key Metrics
 1. Yearly Meeting Count:
 
-     Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
+    * Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
    
-3. Opportunities:
+** 2. Opportunities:
 
      * Total Opportunity: 49.
    
-     *Total Open Opportunity: 44.
+     * Total Open Opportunity: 44.
    
-5. Opportunity Product Distribution (Pie Chart):
+** 3. Opportunity Product Distribution (Pie Chart): **
 
 Displays the contribution of various product groups to revenue:
 Fire: 31%.
