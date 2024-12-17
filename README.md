@@ -56,13 +56,13 @@ KPI List
 
 This dashboard is a Weekly Branch Dashboard designed to track the performance and key metrics of sales and opportunities for a business branch. Here's a breakdown of the sections:
 
-##Top Section: Performance Overview##
+# Top Section: Performance Overview
 
-*Cross-Sell, New, and Renewal Targets:
+1. Cross-Sell, New, and Renewal Targets:
 
-Invoice, Achieved, and Target values are displayed as bar graphs for each category.
+. Invoice, Achieved, and Target values are displayed as bar graphs for each category.
 
-Metrics highlight:
+. Metrics highlight:
 
 Cross-Sell: Achieved 13.11M out of a 20.08M target.
 
