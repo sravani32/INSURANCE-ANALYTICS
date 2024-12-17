@@ -60,9 +60,9 @@ This dashboard is a Weekly Branch Dashboard designed to track the performance an
 
 1. Cross-Sell, New, and Renewal Targets:
 
-. Invoice, Achieved, and Target values are displayed as bar graphs for each category.
+  Invoice, Achieved, and Target values are displayed as bar graphs for each category.
 
-. Metrics highlight:
+* Metrics highlight:
 
 Cross-Sell: Achieved 13.11M out of a 20.08M target.
 
@@ -70,22 +70,30 @@ New: Achieved 3.44M against a 19.67M target.
 
 Renewal: Achieved 18.72M, surpassing a 12.32M target.
 
-Achievement Percentages:
+2. Achievement Percentages:
 
 Cross Sell Placed Achievement %: 65.26% (good progress).
+
 Cross-Sell Invoice Achievement %: 15.14% (low progress).
+
 New Placed Achievement %: 17.48% (low progress).
+
 Renewal Placed Achievement %: 152.00% (exceeded target).
+
 Renewal Invoice Achievement %: 68.14% (good progress).
-Middle Section: Key Metrics
-Yearly Meeting Count:
 
-Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
-Opportunities:
+# Middle Section: Key Metrics
+1. Yearly Meeting Count:
 
-Total Opportunity: 49.
-Total Open Opportunity: 44.
-Opportunity Product Distribution (Pie Chart):
+     Shows the count of meetings conducted in 2019 (3) and 2020 (31), reflecting an increase.
+   
+3. Opportunities:
+
+     * Total Opportunity: 49.
+   
+     *Total Open Opportunity: 44.
+   
+5. Opportunity Product Distribution (Pie Chart):
 
 Displays the contribution of various product groups to revenue:
 Fire: 31%.
